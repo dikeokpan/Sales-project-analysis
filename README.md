@@ -1,1 +1,1 @@
-# Sales Data Analysis using SQL
+# A Sales Data Analysis using SQL
